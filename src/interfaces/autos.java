@@ -362,6 +362,8 @@ public class autos extends javax.swing.JFrame {
         }
 
     }
+    public void elimar2(){
+    }
 
     //metodos de control
     public void tamañoCaracteres(KeyEvent e) {
